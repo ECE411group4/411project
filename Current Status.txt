@@ -1,0 +1,1 @@
+Initial layout is done. Ground planes are not poured as the layout isn't final. The shape of the board may change to better fit the shape of the enclosure.
